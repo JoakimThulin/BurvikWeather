@@ -1,0 +1,1 @@
+﻿<p><img src="images/forecast/L.png" title="Actual forecast" alt="Icon not available" /></p><p> Rather unsettled clearing later.<br /><span>Framräknad 12:59 <small>CET:</small></span></p>

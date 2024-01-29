@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#">
+  <channel>
+    <title>Väder i Burvik - Dagliga rapporter</title>
+    <link>http://runstengolf.se/burvikweather/</link>
+    <atom:link href="http://runstengolf.se/burvikweather/data/feed_daily.xml" rel="self" type="application/rss+xml" />
+    <description>Dagliga rapporter från en amatörväderstation i Burvik, Uppsala</description>
+    <ttl>360</ttl>
+    <item>
+      <title>torsdag 01 januari</title>
+      <geo:lat>59.54</geo:lat>
+      <geo:long>18.23</geo:long>
+      <link>http://runstengolf.se/burvikweather/7days/</link>
+      <description>Temperatur: -0,1 °C (min), 5,8 °C (max), Vind: SV, 3 m/s (med), 9 m/s (byar), Regnmängd 0,9 mm</description>
+      <guid isPermaLink="false">daily_2015_01_01</guid>
+      <pubDate>tor, 01 jan 2015 20:58:01 +0100</pubDate>
+    </item>
+  </channel>
+</rss>

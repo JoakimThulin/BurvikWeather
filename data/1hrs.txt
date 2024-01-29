@@ -1,0 +1,159 @@
+﻿<h3>Senaste timmen</h3>
+<table border="1" rules="rows" cellspacing="0" cellpadding="5">
+  <col />
+  <col />
+  <col align="char" char="." />
+  <col align="char" char="." />
+  <col />
+  <col />
+  <col align="char" char="m" />
+  <col align="char" char="m" />
+  <col align="char" char="." />
+  <col align="char" char="," />
+  <tr>
+    <th rowspan="2">Tidpunkt</th>
+    <th rowspan="2">Temp</th>
+    <th rowspan="2">Känns som</th>
+    <th rowspan="2">Luftfuktighet</th>
+    <th colspan="3">Vind <small>[m/s]</small></th>
+    <th rowspan="2">Regn</th>
+    <th rowspan="2">Lufttryck</th>
+  </tr>
+  <tr>
+    <th>Riktning</th>
+    <th>Medel</th>
+    <th>Byar</th>
+  </tr>
+<tr>
+<td>12:59 <small>CET:</small></td>
+<td>4,1 <small>°C</small></td>
+<td>0,2 <small>&deg;C</small></td>
+<td>56 <small>%</small></td>
+<td>S </td>
+<td>2</td>
+<td>5</td>
+<td>0,0 <small>mm</small></td>
+<td>989 <small>hPa</small></td>
+</tr>
+<tr>
+<td>12:29 <small>CET:</small></td>
+<td>4,0 <small>°C</small></td>
+<td>-0,4 <small>&deg;C</small></td>
+<td>57 <small>%</small></td>
+<td>NV </td>
+<td>3</td>
+<td>4</td>
+<td>0,0 <small>mm</small></td>
+<td>989 <small>hPa</small></td>
+</tr>
+<tr>
+<td>11:59 <small>CET:</small></td>
+<td>3,4 <small>°C</small></td>
+<td>-2,6 <small>&deg;C</small></td>
+<td>60 <small>%</small></td>
+<td>NV </td>
+<td>5</td>
+<td>7</td>
+<td>0,0 <small>mm</small></td>
+<td>988 <small>hPa</small></td>
+</tr>
+<tr>
+<td>10:58 <small>CET:</small></td>
+<td>2,6 <small>°C</small></td>
+<td>-2,8 <small>&deg;C</small></td>
+<td>59 <small>%</small></td>
+<td>SV </td>
+<td>4</td>
+<td>7</td>
+<td>0,0 <small>mm</small></td>
+<td>988 <small>hPa</small></td>
+</tr>
+<tr>
+<td>10:28 <small>CET:</small></td>
+<td>3,0 <small>°C</small></td>
+<td>-2,0 <small>&deg;C</small></td>
+<td>62 <small>%</small></td>
+<td>V </td>
+<td>4</td>
+<td>6</td>
+<td>0,0 <small>mm</small></td>
+<td>988 <small>hPa</small></td>
+</tr>
+<tr>
+<td>09:58 <small>CET:</small></td>
+<td>2,3 <small>°C</small></td>
+<td>-3,6 <small>&deg;C</small></td>
+<td>61 <small>%</small></td>
+<td>NV </td>
+<td>5</td>
+<td>8</td>
+<td>0,0 <small>mm</small></td>
+<td>988 <small>hPa</small></td>
+</tr>
+<tr>
+<td>09:28 <small>CET:</small></td>
+<td>2,0 <small>°C</small></td>
+<td>-3,9 <small>&deg;C</small></td>
+<td>62 <small>%</small></td>
+<td>SV </td>
+<td>5</td>
+<td>8</td>
+<td>0,0 <small>mm</small></td>
+<td>987 <small>hPa</small></td>
+</tr>
+<tr>
+<td>08:58 <small>CET:</small></td>
+<td>1,7 <small>°C</small></td>
+<td>-3,2 <small>&deg;C</small></td>
+<td>63 <small>%</small></td>
+<td>SV </td>
+<td>3</td>
+<td>5</td>
+<td>0,0 <small>mm</small></td>
+<td>987 <small>hPa</small></td>
+</tr>
+<tr>
+<td>08:28 <small>CET:</small></td>
+<td>1,6 <small>°C</small></td>
+<td>-3,1 <small>&deg;C</small></td>
+<td>63 <small>%</small></td>
+<td>S </td>
+<td>3</td>
+<td>5</td>
+<td>0,0 <small>mm</small></td>
+<td>987 <small>hPa</small></td>
+</tr>
+<tr>
+<td>07:58 <small>CET:</small></td>
+<td>2,2 <small>°C</small></td>
+<td>-1,6 <small>&deg;C</small></td>
+<td>61 <small>%</small></td>
+<td>SV </td>
+<td>2</td>
+<td>3</td>
+<td>0,0 <small>mm</small></td>
+<td>987 <small>hPa</small></td>
+</tr>
+<tr>
+<td>07:28 <small>CET:</small></td>
+<td>2,5 <small>°C</small></td>
+<td>-3,6 <small>&deg;C</small></td>
+<td>61 <small>%</small></td>
+<td>NV </td>
+<td>5</td>
+<td>6</td>
+<td>0,0 <small>mm</small></td>
+<td>986 <small>hPa</small></td>
+</tr>
+<tr>
+<td>06:58 <small>CET:</small></td>
+<td>2,2 <small>°C</small></td>
+<td>-2,0 <small>&deg;C</small></td>
+<td>61 <small>%</small></td>
+<td>NV </td>
+<td>2</td>
+<td>5</td>
+<td>0,0 <small>mm</small></td>
+<td>986 <small>hPa</small></td>
+</tr>
+</table>

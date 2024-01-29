@@ -1,0 +1,7 @@
+﻿<table border="1" rules="all">
+  <tr>
+    <th>Tidpunkt</th>
+    <th>Prognos för de kommande 12 timmarna</th>
+  </tr>
+<tr><td>lördag 27 december, 08:56 CET</td><td>Becoming fine</td></tr><tr><td>söndag 28 december, 08:57 CET</td><td>Fine weather</td></tr><tr><td>måndag 29 december, 08:57 CET</td><td>Fine weather</td></tr><tr><td>tisdag 30 december, 08:58 CET</td><td>Fine weather</td></tr><tr><td>onsdag 31 december, 08:58 CET</td><td>Fairly fine, improving</td></tr><tr><td>torsdag 01 januari, 08:58 CET</td><td>Occasional rain, worsening</td></tr><tr><td>fredag 02 januari, 08:58 CET</td><td>Stormy, much rain</td></tr>
+</table>

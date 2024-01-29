@@ -1,0 +1,65 @@
+﻿
+<table border="1" rules="all" cellspacing="0" cellpadding="3" style="line-height:20px;">
+  <tr>
+    <th colspan="2" class="left">
+      24 timmar som slutar 20:54 den 11 jan 2024 
+    </th>
+    <th>Tidpunkt</th>
+  </tr>
+  <tr>
+    <th class="right">Maxtemp, dag</th>
+    <td>0,4 &deg;C</td>
+    <td>12:24</td>
+  </tr>
+  <tr>
+    <th class="right">Mintemp, natt</th>
+    <td>0,7 &deg;C</td>
+    <td>08:54</td>
+  </tr>
+  <tr>
+    <th class="right">Sammanlagd regnmängd</th>
+    <td>2,4 mm</td>
+    <td></td>
+  </tr>
+  <tr>
+    <th class="right">Medelvind</th>
+    <td>1 m/s</td>
+    <td></td>
+  </tr>
+  <tr>
+    <th class="right">Högsta vindhastighet i byarna</th>
+    <td>4 m/s</td>
+    <td>09:24</td>
+  </tr>
+  <tr><th colspan="4">&nbsp;</th></tr>  <tr>
+    <th colspan="2" class="left">
+      Från kl 21:00 den 11 jan till 14:54 den 12 jan 2024 
+    </th>
+    <th>Tidpunkt</th>
+  </tr>
+  <tr>
+    <th class="right">Maxtemp, dag</th>
+    <td>4,2 &deg;C</td>
+    <td>12:54</td>
+  </tr>
+  <tr>
+    <th class="right">Mintemp, natt</th>
+    <td>-2,5 &deg;C</td>
+    <td>22:24</td>
+  </tr>
+  <tr>
+    <th class="right">Sammanlagd regnmängd</th>
+    <td>2,1 mm</td>
+    <td></td>
+  </tr>
+  <tr>
+    <th class="right">Medelvind</th>
+    <td>2 m/s</td>
+    <td></td>
+  </tr>
+  <tr>
+    <th class="right">Högsta vindhastighet i byarna</th>
+    <td>9 m/s</td>
+    <td>13:24</td>
+  </tr>
+</table>
