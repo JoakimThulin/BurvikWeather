@@ -1,0 +1,8 @@
+        <div id="welcome">
+          <p><strong>Välkommen till <em>Burviksväder</em></strong></p>
+          <p>Vår väderstation är uppställd på Tallens väg, vid Burviks golfklubb i Uppland. Baserad på en <em>Fine Offset WN2080</em> väderstation, sänder vi väderuppgifter dygnet runt med 48 sekunders intervall.</p>
+        </div>
+        <hr /><br />
+				<p><img src="images/wn2080out.jpg" alt="Fine Offset WN2080" title="Sändarenheten till WN2080" /><img src="images/wn2080_rpi4.jpg" alt="Fine Offset WN2080 + Raspberry Pi 2, Model B, Rev 1.1" title="Mottagarenheten till WN2080 och RPi" /></p>
+        <p>All väderdata skickas från <a href="http://www.foshk.com/Weather_Professional/WN2080.html" target="_blank">väderstationen</a> till en <a href="https://www.raspberrypi.org/products/raspberry-pi-2-model-b/" target="_blank">Raspberry Pi 2 model B Rev 1.1</a> på <a href="https://downloads.raspberrypi.com/raspios_oldstable_lite_armhf/images/raspios_oldstable_lite_armhf-2023-12-06/" target="_blank">Raspbian Bullseye Lite</a> via USB, som processar data med pythonscripten i paketet <a href="https://github.com/jim-easterbrook/pywws" target="_blank">pywws</a>. Processade data skickas trådat till router och vidare med FTP till <a href="https://www.wunderground.com/personal-weather-station/dashboard?ID=IUPPSALA9" target="_blank">Weather Underground</a>, <a href="https://temperatur.nu/burvik.html" target="_blank">temperatur.nu</a>, <a href="https://www.windy.com/station/pws-f0666c36?59.900,18.388,8" target="_blank">Windy.com</a>, <a href="https://wow.metoffice.gov.uk/observations/details?site_id=a081e1d1-4b22-eb11-8441-0003ff597f33" target="_blank">Met Office WOW</a> och upp till denna webbserver.</p>
+				

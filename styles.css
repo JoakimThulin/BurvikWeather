@@ -1,0 +1,231 @@
+/*---colors : FFFFFF, 729E7B, 9DBC70, FF0000, D5DE9E, 445E88, 8098BF, CDD5DA, 8AB5AC  */
+body {
+  width: 900px;
+	margin: 0 auto;
+	font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+	color: #445e88;
+}
+#page {
+  width: 900px;
+  text-align: left;
+}
+td, tr, p {
+  font-family : Arial, Helvetica, sans-serif;
+  font-size : 12px;
+  color : #868b95;
+}
+a:link {
+	color: #8098bf;
+	text-decoration: none;
+	font-size: 11px;
+	font-weight: bold;	
+}
+
+a:hover {
+	color: #ff0000;	
+  text-decoration: none;
+}
+
+hr {
+	height : 1px;
+	width : 100%;
+	border: 1px solid #dddfe8;
+}
+ul, li {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+/* Header styling */
+#header {
+  width: 900px;
+  text-align: left;
+}
+#header_part1 {
+  height: 41px;
+  background: url('images/style/Header_1.jpg') no-repeat center;
+  margin: 0px;
+  padding: 50px 0px 0px 400px;
+}
+#header_part1 span {
+  font-size: 12px;
+  color: #999;
+}
+#header_part2 {
+  height: 133px;
+  margin: 0px;
+  background: url('images/style/Header_2.jpg') no-repeat center;
+}
+#header_left {
+  float:left; 
+  width:196px;
+  height: 25px;
+  background: url('images/style/Header_3.gif') no-repeat left top;
+  text-align: center;
+  font-size: 12px;
+}
+/* Menu Styling */
+#menubar {
+  width: 100%;
+  height: 25px;
+  line-height: 25px;
+  background-color: #dddfe8;
+  text-align: right;
+}
+#home {
+  float: left;
+  padding-left: 10px;
+  font-size: 90%;
+}
+#cemter_menubar{
+	float: right;
+  text-align: right;
+  background-color: #dddfe8;
+  font-size: 90%;
+}
+#mainmenu {
+	float: right;
+  width: auto;
+  line-height: 23px;
+  text-align: right; 
+  background-color:#dddfe8;
+}
+#mainmenu ul {
+  margin: 0px 10px;
+}
+#mainmenu ul li {
+  display: inline;
+}
+#mainmenu li a:link{
+	color: #445E88;
+	width: auto;
+	font-size: 11px;
+	height: 16px;
+	text-align: center;
+	border-right: 1px solid #8ab5ac;
+	border-left: 1px solid #8ab5ac;
+	margin-top: 2px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+#mainmenu li a:hover{
+	color: #FF0000;
+}
+/* Content styling */
+#content_head {
+  width: 100%;
+  height: 20px;
+  margin-left: 4px;
+  background: url('images/style/fill_header.jpg') no-repeat left top;
+}
+#content {
+  width: 890px;
+  margin: 0px 5px;
+  padding: 5px;
+  background: url('images/style/fill.jpg') repeat-y left top;
+}
+#content_footer {
+  width: 100%;
+  height: 20px;
+  padding: 0px;
+  margin: 0px 0px 0px 4px;
+  background: url('images/style/fill_footer.jpg') no-repeat left top;
+}
+#left_col {
+  float: left;
+  width: 178px;
+  text-align: center;
+}
+.forecast {
+  margin: 0px 5px;
+  font-weight: bold;
+  /* border-top: 1px solid #dddfe8; */
+  border-bottom: 1px solid #dddfe8;
+}
+.forecast p {
+  font-size: 13px;
+  color: #A9A46D;
+  margin: 0px;
+}
+.forecast p span {
+  font-size: 11px;
+  color: #445E88;
+  font-weight: normal;
+}
+.no_margin {
+  margin: 0px;
+}
+.sidemenu li {
+  list-style-position:inside;
+  list-style-type: square;
+  border-bottom: 1px solid #dddfe8;
+  font-size: 13px;
+  font-weight: bold;
+  line-height: 20px;
+  margin-left: 10px;
+  padding-left: 10px;
+  text-align: left;
+  width: 140px;
+  color: #cdd5da;
+}
+.sidemenu li a{
+  color: #8ab5ac;
+}
+#main_panel {
+  float: left;
+  width: 680px;
+  margin:0 auto;
+  margin-left: 25px;
+  text-align: center;
+}
+#weather_infos table {
+  width: 90%;
+  margin: 0 auto;
+  text-align: center;
+  line-height: 12px;
+  height: 20px;
+}
+#weather_infos td {
+  color: #153467;
+}
+#weather_infos td small {
+  color: #445E88;
+}
+#weather_infos img {
+  margin: 0px 30px 0px 30px;
+}
+#welcome {
+  text-align: left;
+  padding: 0px 30px;
+}
+#welcome p {
+  font-size: 14px;
+}
+
+#footer {
+  height: 37px;
+  margin: 0px;
+  padding: 0px 0px 10px 0px;
+  text-align: center;
+  background: url('images/style/footer.jpg') no-repeat left;
+}
+#pywws-link {
+  float:left;
+	margin: 5px 0px 0px 20px; 
+	width: 180px; 
+	height: 25px; 
+	background-color: transparent; 
+}
+#footer p {
+  margin: 0px;
+  padding: 15px 0px 0px 0px;
+  font-size: 18px;
+  color: #A9A46D;
+}
+#copyright {
+  text-align: center;
+}
+#copyright a {
+  font-size: 12px;
+}
